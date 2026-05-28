@@ -1,56 +1,56 @@
 {
-  "Tc-hupper": {
-    "classe": "huppermage",
-    "ini": 1,
-    "image_path": "ressources\\img_overlay\\heads/170_1.png"
+  "example-character-1": {
+    "classe": "",
+    "ini": 0,
+    "image_path": ""
   },
-  "Tc-fecaa": {
-    "classe": "feca",
-    "ini": 1,
-    "image_path": "ressources\\img_overlay\\heads/11_1.png"
+  "example-character-2": {
+    "classe": "",
+    "ini": 0,
+    "image_path": ""
   },
-  "BlopBlop": {
-    "classe": "eliotrope",
-    "ini": 5,
-    "image_path": "ressources\\img_overlay\\heads/31_1.png"
+  "example-character-3": {
+    "classe": "",
+    "ini": 0,
+    "image_path": ""
   },
-  "Tc-arc": {
-    "classe": "cra",
-    "ini": 2,
-    "image_path": "ressources\\img_overlay\\heads/90_1.png"
+  "example-character-4": {
+    "classe": "",
+    "ini": 0,
+    "image_path": ""
   },
-  "Indimo": {
-    "classe": "iop",
-    "ini": 7,
-    "image_path": "ressources\\img_overlay\\heads/90_1.png",
-    "shortcut": "f14"
+  "example-character-5": {
+    "classe": "",
+    "ini": 0,
+    "image_path": "",
+    "shortcut": ""
   },
-  "Divahle": {
-    "classe": "Feca",
-    "ini": 6
-  },
-  "Chamontorm": {
-    "classe": "sacrieur",
-    "ini": 6
-  },
-  "Tonnedeplumes": {
+  "example-character-6": {
     "classe": "",
     "ini": 0
   },
-  "Holexand": {
-    "classe": "Pandawa",
-    "ini": 2,
-    "image_path": "ressources\\img_overlay\\heads/120_1.png"
+  "example-character-7": {
+    "classe": "",
+    "ini": 0
   },
-  "Tc-enutrosor": {
+  "example-character-8": {
+    "classe": "",
+    "ini": 0
+  },
+  "example-character-9": {
     "classe": "",
     "ini": 0,
-    "image_path": "ressources\\img_overlay\\icons/1004.png"
+    "image_path": ""
   },
-  "Enubu": {
-    "classe": "Enutrof",
-    "ini": 1,
-    "image_path": "ressources\\img_overlay\\heads/30_1.png"
+  "example-character-10": {
+    "classe": "",
+    "ini": 0,
+    "image_path": ""
+  },
+  "example-character-11": {
+    "classe": "",
+    "ini": 0,
+    "image_path": ""
   },
   "Pousset": {
     "classe": "Iop",
