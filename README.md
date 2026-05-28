@@ -2,12 +2,13 @@
 
 ## Aide à la gestion du multi-comptes sur dofus
 
-Cet overlay permet de mieux gérer son changement de page lors d'une session de jeu dofus en multi-compte.
+Passer d’un personnage à l’autre en plein combat ne devrait pas ressembler à un mini-jeu de gestion de fenêtres. Cet outil a justement été pensé pour simplifier les sessions multi-compte sur Dofus et rendre la navigation entre les comptes plus rapide, plus fluide et surtout moins pénible au quotidien.
 
-Le code sera disponible prochaine avec un .exe pour ceux qui n'ont pas l'habitude d'utiliser python.
+Une version prête à l’emploi sera proposée prochainement pour les utilisateurs qui ne souhaitent pas mettre les mains dans Python, tout en laissant également l’accès aux sources pour ceux qui aiment comprendre ce qu’ils installent.
 
-Je vous invite toute fois à rester vigilent et à ne pas oublier que les logiciels tiers peuvent représenter un menace pour votre ordinateur ou vos comptes Ankama. Vous pourrez donc regarder le code pour vérifier qu'aucune instruction malveillante s'y trouve. Je vous invite également à ne pas télécharger Dofus Overlay sur un autre site qui pourrait redistribuer l'application après l'avoir modifier.
-Cette nouvelle version de l'overlay est une copie du organizer de dofusguide avec quelques améliorations et correction. Je vous invite à vous diriger vers leur application si vous préférez ne pas prendre le risque de faire confiance à un inconnu sur github (moi).
+Même si l’objectif est simplement d’améliorer le confort de jeu, il reste important de rappeler qu’utiliser un programme externe demande toujours un minimum de vigilance. Vérifier les fichiers, consulter le code et télécharger uniquement depuis la source officielle reste la meilleure manière d’éviter les mauvaises surprises.
+
+Le projet reprend l’idée générale de certains outils déjà connus de la communauté, notamment l’Organizer de DofusGuide, tout en apportant plusieurs ajustements, corrections et petits ajouts personnels. Si vous préférez utiliser une solution déjà bien installée dans l’écosystème Dofus plutôt qu’un projet partagé par un développeur random sur GitHub, leur application reste évidemment une alternative très correcte
 
 ## Installation:
 
