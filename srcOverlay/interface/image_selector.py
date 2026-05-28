@@ -226,6 +226,6 @@ if __name__ == "__main__":
     pages_dofus[0].name = "test1"
     pages_dofus[1].classe = "feca"
     pages_dofus[1].name = "Indimo"
-    pages_dofus[2].name = "Readix"
+    pages_dofus[2].name = "Pousset"
     ihm = ImageSelector(None, pages_dofus, None)
     ihm.selector_window.mainloop()
