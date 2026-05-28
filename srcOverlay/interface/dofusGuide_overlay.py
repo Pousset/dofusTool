@@ -445,7 +445,7 @@ if __name__ == "__main__":
     pages_dofus[0].classe = "iop"
     pages_dofus[1].name = "Indimo"
     pages_dofus[1].classe = "cra"
-    pages_dofus[2].name = "Readix"
+    pages_dofus[2].name = "Pousset"
     
     with open("ressources/config.json",encoding="utf-8") as file:
         config = json.load(file)

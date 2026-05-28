@@ -534,6 +534,6 @@ if __name__ == "__main__":
     pages_dofus[0].name = "test1"
     pages_dofus[1].classe = "feca"
     pages_dofus[1].name = "Indimo"
-    pages_dofus[2].name = "Readix"
+    pages_dofus[2].name = "Pousset"
     ihm = Reorganiser(pages_dofus, None, None)
     ihm.mainloop()
