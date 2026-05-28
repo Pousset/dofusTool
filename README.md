@@ -18,20 +18,21 @@ Le projet reprend l’idée générale de certains outils déjà connus de la co
 
 ## Fonctionnalités:
 
-#### Toutes les fonctionnalités doivent respecter les CGU. Actuellement la seule fonctionnalité (macro click + tab sur la souris) est autorisée. [Lien forum dofus](https://www.dofus.com/fr/forum/1069-dofus/2404061-macros-autorise?page=2#entry13291455)
+#### L’objectif du projet est de proposer un overlay pratique pour le multi-compte tout en restant dans une utilisation raisonnable et respectueuse des règles du jeu. À l’heure actuelle, les fonctionnalités intégrées ont été pensées pour améliorer le confort d’utilisation sans automatiser le gameplay. [Lien forum dofus](https://www.dofus.com/fr/forum/1069-dofus/2404061-macros-autorise?page=2#entry13291455)
 
-- appuyer sur tab (+shift) permet de passer à la page dofus suivante (précédente) (paramétrable dans le fichier ressources/config.json [option: next_win, prev_win]ou dans le menu déroulant pendant l'exécution)
-- ne plus avoir le focus sur une page dofus fait disparaitre l'overlay (option: auto-disparition)
-- clicker sur une image de l'overlay permet de changer de page dofus
-- drag l'overlay permet de le déplacer
-- Macro click + page suivante (equivalent à click+tab) (macro_clic_next_win)
-- ctrl+click sur un personnage de l'overlay pour le sélectionner/désélectionner (Les personnages désélectionnés ne sont plus éligibles à l'affichage via tab)
-- Appuyer sur f11 pour reorganiser les pages (option: reorganizer)
-- Appuyer sur f13 pour focus sur la page dofus dernièrement selectionnée (option: focus_dofus)
-- Actualisation manuelle via f4 pour éviter une boucle infini (option: actualise, auto-actualisation)
-- Possibilité de mettre l'overlay à la verticale ou à l'horizontale (option: horizontal)
-- Save les informations comme l'ordre ou les images.
-- Invitation de tous les personnages dont une fenêtre est ouverte (cela pourrait enfreindre les CGU, je ne pense pas qu'il faille l'utiliser)
+- Passage rapide d’une fenêtre Dofus à l’autre avec TAB et retour arrière avec SHIFT + TAB.
+- Raccourcis entièrement modifiables depuis le fichier de configuration ou directement via l’interface pendant l’exécution.
+- Disparition automatique de l’overlay lorsque la fenêtre Dofus n’est plus active, pour éviter d’avoir un HUD géant perdu sur le bureau.
+- Changement de personnage en cliquant simplement sur son portrait dans l’overlay.
+- Déplacement libre de l’interface par glisser-déposer.
+- Macro optionnelle permettant d’enchaîner clic + changement de fenêtre pour gagner en fluidité.
+- Possibilité d’exclure certains personnages de la rotation avec CTRL + clic, pratique quand un perso sert juste de mule ou dort au zaap.
+- Réorganisation rapide des fenêtres via une touche dédiée.
+- Retour instantané sur la dernière fenêtre active.
+- Rafraîchissement manuel pour éviter certains comportements indésirables ou boucles de détection.
+- Affichage horizontal ou vertical selon les préférences et l’espace disponible à l’écran.
+- Sauvegarde automatique des positions, de l’ordre des personnages et des images utilisées.
+- Une fonctionnalité d’invitation automatique des personnages dont la fenêtre est ouverte existe également, mais son utilisation peut être discutable vis-à-vis des règles du jeu. Elle est donc présente principalement à titre expérimental et il est recommandé de rester prudent avec ce type d’option.
 
 ![](demo/demo.gif)
 
